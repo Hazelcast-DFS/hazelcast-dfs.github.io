@@ -1,0 +1,9 @@
+site_name: HZDFS
+pages:
+- Home: index.md
+
+theme: journal
+
+markdown_extensions:
+    - toc:
+        permalink: True
